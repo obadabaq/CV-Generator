@@ -1,0 +1,358 @@
+{
+    "first_name": "John",
+    "last_name": "Doe",
+    "positions": [
+        "Senior Software Engineer",
+        "Development Team Lead"
+    ],
+    "email": "john.doe@example.com",
+    "phone": "+971 xxx xxx xxx",
+    "address": "Dubai, UAE",
+    "website": "https://www.mywebsite.com",
+    "linked_in": "https://www.linkedin.com/in/my-linkedin/",
+    "github": "https://github.com/mygithub",
+    "dob": "YYYY",
+    "summary": "Add your CV summary here.",
+    "languages": {
+        "Arabic": "Native",
+        "English": "Fluent"
+    },
+    "top_skills": [
+        "Software Development",
+        "Fullstack Development"
+    ],
+    "hard_skills": [
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx"
+    ],
+    "soft_skills": [
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx",
+        "xxxxx"
+    ],
+    "experiences": [
+        {
+            "company": "",
+            "role": "",
+            "employmentType": "Full-time",
+            "locationType": "On-site",
+            "location": "Dubai, United Arab Emirates",
+            "startDate": "May 2023",
+            "endDate": "Feb 2024",
+            "website": "https://rahalapp.com",
+            "responsibilities": [
+                "Developed the backend app from scratch using NestJs framework.",
+                "Responsible for the web-apps pipelines.",
+                "Converting business requirements into actionable development plans.",
+                "Efficiently leading the team to consistently produce high-quality code within project deadlines."
+            ],
+            "skills": [
+                "Agile Development",
+                "Node.js",
+                "Requirements Analysis",
+                "Team Management",
+                "PostgreSQL",
+                "Flutter",
+                "NestJs",
+                "REST APIs",
+                "Payment Gateways",
+                "Docker",
+                "Solution Architecture"
+            ]
+        },
+        {
+            "company": "Maids.cc",
+            "role": "Senior Flutter Engineer",
+            "employmentType": "Full-time",
+            "locationType": "Remote",
+            "location": "Dubai, United Arab Emirates",
+            "startDate": "Feb 2022",
+            "endDate": "Jul 2023",
+            "website": "https://maids.cc",
+            "responsibilities": [
+                "Developed & maintained two apps using BLOC and Redux.",
+                "Consistently enhanced app functionality by adding new features.",
+                "Responsible for app distribution (TestFlight & android)",
+                "Used Jira, Slack, and Google meet while working in a large remote team."
+            ],
+            "skills": [
+                "Agile Development",
+                "Flutter",
+                "Jira",
+                "Bloc",
+                "Redux",
+                "GIT",
+                "TDD",
+                "Code Review",
+                "Design Patterns",
+                "TestFlight"
+            ]
+        },
+        {
+            "company": "BlackBox Software Solutions",
+            "role": "Mobile Developer",
+            "employmentType": "Full-time",
+            "locationType": "On-site",
+            "location": "",
+            "startDate": "Nov 2020",
+            "endDate": "Feb 2022",
+            "website": "",
+            "responsibilities": [
+                "Developed and maintained multi apps.",
+                "Actively contributed to the development of new features.",
+                "Deployed a Flutter web version.",
+                "Enhanced performance for a Flutter web application"
+            ],
+            "skills": [
+                "Agile Development",
+                "Flutter",
+                "Flutter Web",
+                "Kotlin",
+                "Problem Solving",
+                "Performance Management",
+                "Code Review",
+                "Communication",
+                "Coding Standards"
+            ]
+        },
+        {
+            "company": "Pancode",
+            "role": "Mobile Developer",
+            "employmentType": "Full-time",
+            "startDate": "Nov 2018",
+            "endDate": "Nov 2020",
+            "locationType": "On-site",
+            "location": "",
+            "website": "https://pan-code.com",
+            "responsibilities": [
+                "Developed and launched multiple projects from scratch in the UAE and Saudi Arabia.",
+                "Directly communicated with clients, fostering effective collaboration and delivering customized solutions.",
+                "Worked on new features constantly.",
+                "Worked with eager designers to make the best UI/UX experience possible.",
+                "Deployed both IOS and Android versions."
+            ],
+            "skills": [
+                "Agile Development",
+                "Mobile Development",
+                "Flutter",
+                "Kotlin",
+                "Swift",
+                "Problem Solving",
+                "Code Review",
+                "Communication",
+                "Coding Standards"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "university": "Arab International University",
+            "degree": "Bachelor of Engineering (B.E.) in Informatics Engineering",
+            "specialization": "Artificial intelligence",
+            "startDate": "Aug 2016",
+            "endDate": "Aug 2021",
+            "grade": "2.6/4.0 · 65%",
+            "link": "https://www.aiu.edu.sy/"
+        }
+    ],
+    "features": [
+        {
+            "icon": {
+                "displayName": "Zap"
+            },
+            "title": "Rahal App",
+            "description": "As a co-founder and director, I played a pivotal role in establishing and leading Syria's first and only running Online Travel Agency (OTA), pioneering a new era of travel and connectivity within the country."
+        },
+        {
+            "icon": {
+                "displayName": "Cog"
+            },
+            "title": "Successfully published over 10 applications",
+            "description": "Showcasing my ability to develop and deliver high-quality mobile experiences."
+        },
+        {
+            "icon": {
+                "displayName": "Computer"
+            },
+            "title": "Full Stack Mobile Development",
+            "description": "Expertise in both front-end (Mobile Development) and back-end technologies, building scalable and efficient applications with Node.js, and Flutter."
+        },
+        {
+            "icon": {
+                "displayName": "Pencil"
+            },
+            "title": "Solution Architecture",
+            "description": "Designing and overseeing the implementation of software architecture that aligns with business needs and scalability requirements."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Rahal app",
+            "description": "Rahal is the first and only Online Travel Agency (OTA) in Syria, it allows users from all over the world to plan and book their trip to Syria.",
+            "professional_description": "Co-founded & led the software team. Used NestJs, PostgreSQL, React, and Flutter.",
+            "path": "",
+            "date": "2023-05-01T00:00:00.000Z",
+            "published": true,
+            "keywords": [
+                "OTA",
+                "Booking Platform",
+                "Payment Support"
+            ],
+            "type": "Product Development",
+            "skills": [
+                "NestJs",
+                "PostgreSQL",
+                "Flutter",
+                "React",
+                "Firebase",
+                "Google Maps",
+                "Docker"
+            ],
+            "role": "Co-founder, Software Team Lead, and Backend Developer",
+            "slug": "",
+            "order": 1,
+            "readingTime": 3,
+            "url": "https://rahalapp.com"
+        },
+        {
+            "title": "Maids.cc",
+            "description": "Get a full-time maid or maid visa. Sign & pay online in 5 minutes. Avoide visits to medical centers & typists. Cancel anytime. Winner ministry award.",
+            "professional_description": "Senior Flutter Developer, mainly responsible for the sales-module, and app distribution.",
+            "path": "",
+            "date": "2022-02-01T00:00:00.000Z",
+            "published": true,
+            "keywords": [
+                "Maids Application",
+                "ID Verification"
+            ],
+            "type": "Product Development",
+            "skills": [
+                "Flutter",
+                "Bloc",
+                "Paytabs",
+                "Firebase",
+                "Freshchat"
+            ],
+            "role": "Senior Flutter Developer",
+            "slug": "",
+            "order": 2,
+            "readingTime": 3,
+            "url": "https://maids.cc"
+        },
+        {
+            "title": "Yaya app",
+            "description": "If you're working with maids.cc, your Yaya app allows you to chat with maids.cc staff, get your documents, access your medical care, complane about your accommodation, or tell us about any issues you are facing with your client. We will also send you important messages through you Yaya app.",
+            "professional_description": "Senior Flutter Developer, mainly responsible for the sales-module, and app distribution.",
+            "path": "",
+            "date": "2023-03-01T00:00:00.000Z",
+            "published": true,
+            "keywords": [
+                "Maids Application",
+                "ID Verification"
+            ],
+            "type": "Product Development",
+            "skills": [
+                "Flutter",
+                "Redux",
+                "Paytabs",
+                "Firebase",
+                "Freshchat"
+            ],
+            "role": "Senior Flutter Developer",
+            "slug": "",
+            "order": 3,
+            "readingTime": 3,
+            "url": "https://maids.cc"
+        },
+        {
+            "title": "Ktateb (parent & tutor app)",
+            "description": "Ktateb is an educational platform that provides various private teaching sessions through specialized teachers with the aim of establishing and developing the student’s skills in various basic fields such as reading, writing, and arithmetic, and advanced ones such as programming and arts, which in turn helps him correct his educational path.",
+            "professional_description": "Led the software team, effectively communicated with the client directly to ensure timely delivery. Used Laravel, React, and Flutter.",
+            "path": "",
+            "date": "2024-01-01T00:00:00.000Z",
+            "published": true,
+            "keywords": [
+                "E-Learning",
+                "Learning Platform",
+                "Interactive Learning"
+            ],
+            "type": "Product Development",
+            "skills": [
+                "Flutter",
+                "Firebase",
+                "Socket.io",
+                "React",
+                "Laravel"
+            ],
+            "role": "Mobile Developer & Team Lead",
+            "slug": "",
+            "order": 4,
+            "readingTime": 3,
+            "url": "https://ktateb.co/"
+        },
+        {
+            "title": "Virtual Legal Platform",
+            "description": "Based on the basic role of the Syrian Bar Association in achieving justice and enabling all members of society to access social justice, and based on its societal responsibility and role in providing the best legal response to meet the basic needs of citizens and facilitating their access to the required legal information, and working to raise the efficiency of the Bar Association’s response to legal intervention and ensuring its sustainability.",
+            "professional_description": "Developed a legal app using Flutter, with cooperation with the Syrian Legal Bar & UNDP.",
+            "path": "",
+            "date": "2019-04-01T00:00:00.000Z",
+            "published": true,
+            "keywords": [
+                "Legal Platform",
+                "UNDP"
+            ],
+            "type": "Product Development",
+            "skills": [
+                "Flutter",
+                "Firebase",
+                "Socket.io",
+                "Angular",
+                "ASP.net"
+            ],
+            "role": "Flutter Developer",
+            "slug": "",
+            "order": 5,
+            "readingTime": 3,
+            "url": "https://virtuallegalplatform.com/#/"
+        },
+        {
+            "title": "MTN Cash Mobile",
+            "description": "Transferring money from subscriber to subscriber, paying money to a merchant account, paying bills and recharging prepaid balance for MTN subscribers, paying bills and government transaction fees, inquiring and making payments to Internet service providers.",
+            "professional_description": "I developed MTN fintech app using Flutter, ensuring stability and security.",
+            "path": "",
+            "date": "2021-03-01T00:00:00.000Z",
+            "published": true,
+            "keywords": [
+                "FinTech",
+                "QR Generator & Reader"
+            ],
+            "type": "Product Maintaince",
+            "skills": [
+                "Flutter",
+                "ASP.net"
+            ],
+            "role": "Flutter Developer",
+            "slug": "",
+            "order": 6,
+            "readingTime": 3,
+            "url": "https://cash.mtnsyr.com"
+        }
+    ]
+}

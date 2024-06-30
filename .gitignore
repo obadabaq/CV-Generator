@@ -1,0 +1,9 @@
+node_modules
+
+.env
+
+# Generated CVs
+cvs
+
+# Your CV
+src/cvs.json
